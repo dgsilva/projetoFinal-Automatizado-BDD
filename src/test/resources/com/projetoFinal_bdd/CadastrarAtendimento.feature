@@ -8,7 +8,7 @@ Cenário: Acessar a página de atendimento com sucesso
  E Informar a data "07/01/2023"
  E Informar a hora "17:52"
  E Informar o assunto "Problema na rede"
- E Informar observacoes "Estamos sem rede no bloco 14 - ape 103"
+ E Informar observacoes "Estamos sem rede no bloco 20 - ape 110"
  E Informar o email "isab@gmail.com"
  Quando Solicitar a realização cadastro
  Então Sistema cadastrar o cliente
